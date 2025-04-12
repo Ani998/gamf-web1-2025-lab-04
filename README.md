@@ -5,4 +5,3 @@ A Web-1 tantárgy anyagai
 - Html
 - CSS
 - JS
-- abcd
